@@ -1,0 +1,22 @@
+{
+    "name": "radio_motor_control",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "radio-broadcast": "*",
+        "Cutebot": "github:elecfreaks/pxt-cutebot#v3.0.9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
